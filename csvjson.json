@@ -1,7 +1,7 @@
 [
   {
     "alumno": "Natalia",
-    "nota": "2,5",
+    "nota": 2,
     "ranking": 460
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "alumno": "Eustaquio",
-    "nota": "7,8",
+    "nota": 8,
     "ranking": 150
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "alumno": "Isabel",
-    "nota": "9,8",
+    "nota": 10,
     "ranking": 2
   }
 ]
